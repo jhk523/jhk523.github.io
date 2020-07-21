@@ -1,0 +1,80 @@
+.profile, .right{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+
+body{
+    font-family: 'Zilla Slab';
+}
+
+
+/* ------------ Profile ------------ */
+.profile{
+    background-color: #38373C;
+}
+
+.profile-big-hor{
+    border-top-color: rgb(124, 124, 124);
+    width: 100%;
+}
+
+.profile-sm-hor{
+    border-top-color: rgb(124, 124, 124);
+    width: 30%;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.profile-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.profile-content{
+    color:white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+}
+
+.profile-name{
+    margin-top: 25px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.profile-topic{
+    font-size: 20px;
+}
+
+.profile-sub-topic{
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.profile-sub-topic-content{
+    margin-bottom: 30px;
+}
+
+.profile-about-content{
+    margin-top: 15px;
+    text-align: left;
+}
+
+
+.right{
+    background-color: #f3f3f3;
+}
+
+.right-main{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
