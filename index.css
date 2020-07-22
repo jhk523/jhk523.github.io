@@ -68,6 +68,7 @@ body{
 }
 
 
+/* ------------- Main Content -------------- */
 .right{
     background-color: #f3f3f3;
 }
@@ -77,4 +78,31 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 20px;
+}
+
+.main-item{
+    margin-bottom: 40px;
+}
+
+.main-topic{
+    font-size: 20px;
+}
+
+.main-bullet{
+    padding-left: 25px;
+}
+
+.main-bullet-sub-topic{
+    font-size: 18px;
+}
+
+.main-bullet-sub{
+    padding-left: 20px;
+    font-size: 15px;
+}
+
+.main-hor{
+    border-top-color: rgb(196, 196, 196);
+    margin-top: 3px;
 }
