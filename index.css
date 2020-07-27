@@ -89,6 +89,10 @@ body{
     font-size: 20px;
 }
 
+.main-content{
+    width: 98%;
+}
+
 .main-bullet{
     padding-left: 25px;
 }
@@ -97,12 +101,54 @@ body{
     font-size: 18px;
 }
 
+.honors{
+    margin-top: 10px;
+}
+
 .main-bullet-sub{
     padding-left: 20px;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .main-hor{
     border-top-color: rgb(196, 196, 196);
     margin-top: 3px;
+}
+
+.education-left{
+    font-size: 17px;
+}
+
+.education-right{
+    text-align: right;
+    font-size: 16px;
+}
+
+.education-space{
+    margin-top: 30px;
+}
+
+.research-space{
+    margin-top: 25px;
+}
+
+.research-left{
+    text-align: left;
+}
+
+.research-right{
+    text-align: right;
+}
+
+.teaching-space{
+    margin-top: 25px;
+}
+.teaching-left{
+    text-align: left;
+    font-size: 17px;
+}
+
+.teaching-right{
+    text-align: right;
+    font-size: 16px;
 }
