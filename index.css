@@ -101,6 +101,9 @@ body{
     padding-left: 25px;
 }
 
+.education-left{
+    font-size: 16x;
+}
 .main-bullet-sub-topic{
     font-size: 17px;
 }
@@ -117,10 +120,6 @@ body{
 .main-hor{
     border-top-color: rgb(196, 196, 196);
     margin-top: 3px;
-}
-
-.education-left{
-    font-size: 17px;
 }
 
 .education-right{
