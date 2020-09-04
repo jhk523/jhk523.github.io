@@ -6,7 +6,7 @@
 
 
 body{
-    font-family: 'Zilla Slab';
+    font-family: 'Spoqa Han Sans', 'Zilla Slab';
 }
 
 
@@ -44,12 +44,14 @@ body{
 }
 
 .profile-name{
+    font-family: 'Zilla Slab';
     margin-top: 25px;
     font-size: 30px;
     text-align: center;
 }
 
 .profile-topic{
+    font-family: 'Zilla Slab';
     font-size: 20px;
 }
 
@@ -86,6 +88,7 @@ body{
 }
 
 .main-topic{
+    font-family: 'Zilla Slab';
     font-size: 20px;
 }
 
